@@ -8,7 +8,7 @@ import Link from 'next/link'
 
 import 'highlight.js/styles/github-dark.css'
 
-export const revalidate = 10
+export const revalidate = 85400
 
 type Props = {
   params: {
